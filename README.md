@@ -1,6 +1,6 @@
 # Toku
 
-A new Flutter project.
+A Flutter project to learn the japanese language
 
 ## Getting Started
 
